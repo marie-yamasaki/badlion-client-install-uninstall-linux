@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Balion Client
+Comment=Minecraft Client
+GenericName=Minecraft Client
+Exec=/usr/bin/BadlionClient
+Type=Application
+Keywords=Badlion;
+Icon=/usr/share/icons/badlion/logo.png
