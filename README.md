@@ -1,5 +1,5 @@
 # Badlion install-uninstall script for Linux
-A couple of simple scripts to semi-automate the Badlion Client installation and uninstallation on Linux. The scripts assumes that you use some sort of Desktop entry specification compliant environment, which most Linux systems do. These scripts have been tested on Fedora 39 and appear to work at the time of writing.
+A couple of simple scripts to semi-automate the Badlion Client installation and uninstallation on Linux. These scripts assumes that you use some sort of Desktop entry specification compliant environment, which most Linux systems do. These scripts have been tested on Fedora 39 and appear to work at the time of writing.
 ## How to install:
 1. Clone this repo using git:
 ````
@@ -19,7 +19,7 @@ bash install.sh
 ````
 git clone https://github.com/marie-yamasaki/badlion-client-install-uninstall-linux.git badlion
 ````
-2. Run the `uninstall.sh` file in the terminal using this command
+2. Run the `uninstall.sh` file in the terminal using this command in the installed directory using 
 ````
 bash uninstall.sh
 ````
